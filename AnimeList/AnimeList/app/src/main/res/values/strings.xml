@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AnimeList</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_anime" />
+    <string name="data_name" />
+    <string-array name="data_name">
+        <item>Atake On Titan</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Samurai X</item>
+        <item>Solo Leveling</item>
+        <item>100 Zombie</item>
+        <item>Shadows House</item>
+        <item>World Trigeer</item>
+        <item>Girls Frontine</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Berabad-abad yang lalu, umat manusia dibantai hingga hampir punah oleh makhluk humanoid mengerikan yang disebut Titan, yang memaksa manusia bersembunyi dalam ketakutan di balik tembok konsentris yang sangat besar. Yang membuat raksasa ini benar-benar menakutkan adalah bahwa selera mereka terhadap daging manusia tidak lahir dari rasa lapar, tetapi apa yang tampak berasal dari kesenangan. </item>
+        <item>Serpihan iblis Ryoumen Sukuna yang legendaris yang legendaris dan ditakuti, hilang berserakan. Jika ada iblis yang memakan bagian tubuh Sukuna, kekuatan yang mereka peroleh mampu menghancurkan dunia. Untungnya, ada sekolah misterius bernama Jujutsu Sorceres yang mampu melindungi keberadaan makhluk hidup dari hayat hidup.</item>
+        <item>Beberapa saat sebelum Naruto Uzumaki lahir, seekor iblis besar yang dikenal sebagai Rubah Ekor Sembilan menyerang Konohagakure, Desa Daun Tersembunyi, dan menimbulkan malapetaka. Untuk mengakhiri amukan iblis tersebut, pemimpin desa, Hokage Keempat, mengorbankan hidupnya dan menyegel monster mengerikan itu di dalam tubuh Naruto yang baru lahir.</item>
+        <item>Gol D. Roger dikenal sebagai Raja Bajak Laut, Orang terkuat dan paling terkenal yang pernah mengarungi Grand Line. Penangkapan dan Eksekusi Roger oleh Pemerintahan Dunia telah membawa perubahan di seluruh dunia. Kata kata terakhir sebelum kematiannya mengungkapkan lokasi dari harta karun terbesar di dunia, One Piece.</item>
+        <item>Sepuluh tahun telah berlalu sejak akhir Bakumatsu, era perang yang menyaksikan pemberontakan warga melawan Keshogunan Tokugawa. Kaum revolusioner ingin menciptakan masa damai, dan negara berkembang bebas dari penindasan. Era baru Meiji telah tiba, namun kedamaian belum juga tercapai. </item>
+        <item>10 tahun yang lalu, gate penghubung antar dunia tiba-tiba muncul dan di dalamnya terdapat begitu banyak monster. Untuk menangani hal tersebut, para manusia tiba-tiba mendapatkan kebangkitan dari kekuatan mereka dan mereka dikenal sebagai hunter. Sung Jin-Woo yang baru berusia 20 tahun adalah seorang hunter, akan tetap dia dikenal sebagai hunter terlemah di dunia dikarenakan tingkatnya E yang paling rendah.</item>
+        <item>Zom 100: Zombie ni Naru made ni Shitai 100 no Koto bercerita tentang Akira Tendou, karyawan berusia 24 tahun yang lelah bekerja di perusahaan eksploitatif selama 3 tahun. Pekerjaannya yang berat membuat semangatnya hancur, hidup dalam keputusasaan tanpa bisa menikmati romansa cinta.</item>
+        <item>Bercerita tentang Emilyko seorang gadis kecil yang bekerja sebagai seorang pembantu disebuah Mansion mewah yang misterius. Akan tetapi ternyata Emilyko sebenarnya bukan manusia, melainkan sebuah boneka yang bisa bergerak dan komunikasi layaknya seperti manusia.</item>
+        <item>WORLD TRIGGER ini dikisahkan pada dunia di mana gerbang menuju dimensi lain telah terbuka, makhluk asing yang dikenal sebagai "Neighbor" mulai menyerang Bumi. Untuk melindungi umat manusia, sebuah organisasi militer khusus bernama Border pun dibentuk.</item>
+        <item>Girls Frontline adalah serial anime yang diproduksi oleh Asahi Production dan ditayangkan pada Januari hingga Maret 2022. Serial ini merupakan adaptasi dari permainan video seluler strategi bermain-peran yang juga berjudul Girls Frontline. </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/aot</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/one_piece</item>
+        <item>@drawable/samurai</item>
+        <item>@drawable/solo_leveling</item>
+        <item>@drawable/zombi</item>
+        <item>@drawable/shadows</item>
+        <item>@drawable/world</item>
+        <item>@drawable/girls</item>
+    </integer-array>
+</resources>
